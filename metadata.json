@@ -1,0 +1,11 @@
+{
+  "name": "AgriRakshak AI",
+  "description": "Smart Farming. Healthy Crops. Better Future. AI-powered multilingual agricultural assistant for Indian farmers with leaf, crop, and seed disease diagnosis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
